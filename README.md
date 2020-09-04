@@ -18,3 +18,6 @@ Just compile it.
 
 ## Issues?
 It's up to you now im out.
+
+## Note!
+Download and install font 'Caviar Dreams Bold'.
