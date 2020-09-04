@@ -1,0 +1,31 @@
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\bin\Debug\GTBit Beta.exe.config
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\bin\Debug\GTBit Beta.exe
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\bin\Debug\GTBit Beta.pdb
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit_Beta.MainForm.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit_Beta.MiniControl.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit_Beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit_Beta.XAbout.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit_Beta.XMessageBox.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit Beta.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit Beta.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit Beta.exe
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit Beta.pdb
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit_Beta.Interface.Login.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit Beta.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit_Beta.Interface.Register.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered\GTBit Beta\obj\Debug\GTBit Beta.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit Beta.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit_Beta.MainForm.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit_Beta.MiniControl.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit_Beta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit_Beta.XAbout.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit_Beta.XMessageBox.resources
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit Beta.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit Beta.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\bin\Debug\GTBit Beta.exe.config
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\bin\Debug\GTBit Beta.exe
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\bin\Debug\GTBit Beta.pdb
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit Beta.exe
+C:\Users\Administrator\Desktop\GTBit Beta Remastered Github\GTBit Beta\obj\Debug\GTBit Beta.pdb
