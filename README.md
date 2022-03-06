@@ -1,6 +1,5 @@
 # Greetings!
 ![banner1](https://github.com/juvilux/GTBit-Beta/blob/master/Image/banner1.jpg?raw=true)
-Rejoice kids! xD
 
 # Description
 Simple Growtopia auto clicker.
